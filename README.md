@@ -1,1 +1,1 @@
-salon management project
+salon management project.

@@ -1,1 +1,1 @@
-Salon management project.
+Salon management project.  
